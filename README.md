@@ -7,7 +7,7 @@
 
 --仅提供的是思路，封装什么动画，根据自己项目，在show方法添加启动动画，或移除动画
 
---[简书地址 ]（http://www.jianshu.com/p/d2c12a3996d4）
+--[简书地址 ]（http://www.jianshu.com/p/d2c12a3996d4?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=qzone）
 
 <img src="https://github.com/While1true/StateLayout/blob/master/device-2017-07-31-072242.png" width=200 height=355 /><img src="https://github.com/While1true/StateLayout/blob/master/device-2017-07-31-072253.png" width=200 height=355 /><img src="https://github.com/While1true/StateLayout/blob/master/device-2017-07-31-072305.png" width=200 height=355 /><img src="https://github.com/While1true/StateLayout/blob/master/device-2017-07-31-072328.png" width=200 height=355 />
 
